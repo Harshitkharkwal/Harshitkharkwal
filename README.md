@@ -4,7 +4,7 @@
 
 I'm a student who is passionate about writing code, solving problems, automating stuff, and building software.
 
-- 🔭 I’m currently a ECE student at GBPIET,Pauri.
+- 🔭 I’m currently a CSE student at GBPIET,Pauri.
 - 📚 I’m currently learning  frontend web development.
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/harshit-kharkwal-3ba497206) [Gmail](kharkwalharshit4@gmail.com)
